@@ -25,7 +25,7 @@ Analyze how annual members and causal rides use Cyclistic bikes differently, so 
 Downloaded the data needed from the link above and stored them in a local folder named "Cyclistic_data". Each CSV file is stored with a file name "YYYYMM_tripdata.csv" format. 
 
 ### Processing and Cleaning: 
-All the processing and cleaning are done with R, including analyzing and visualization. View code [here](). 
+All the processing and cleaning are done with R, including analyzing and visualization. View code [here](https://github.com/NoeHuangx/Cyclistic-Case-Study/blob/main/main.R). 
 
 ### Analyzing and Viz: 
 
